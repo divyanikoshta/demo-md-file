@@ -14,3 +14,5 @@
     ⦁	Response code of any end point can be changed using overrideResCode object in server.js file.
     ⦁	These mock apis will be return the example as it's response.
 
+
+![MarineGEO circle logo](/assets/mock_api_workflow.png "MarineGEO logo")
