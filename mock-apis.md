@@ -2,7 +2,7 @@
 
 ### Objective
 
-    ⦁	Objective of mock api server is to  imitates a real API server by providing realistic mock API responses to requests.
+    ⦁	Objective of mock api server is to imitates a real API server by providing realistic mock API responses to requests.
     
 ### Approach
 
@@ -14,5 +14,12 @@
     ⦁	Response code of any end point can be changed using overrideResCode object in server.js file.
     ⦁	These mock apis will be return the example as it's response.
 
+ #### Why Mirgejs
+    ⦁   Mirage runs in the browser alongside your frontend code, so getting it running in your dev environment and using it to run tests on your CI servers is simpler – no extra processes to manage or reset.
+    ⦁   Mirage resets its state on every browser reload.
+    
+
 
 ![MarineGEO circle logo](/assets/mock_api_workflow.png "MarineGEO logo")
+
+
